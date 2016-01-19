@@ -10,6 +10,7 @@ body {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
+  padding-bottom: 300px;
 }
 
 a {
@@ -94,6 +95,9 @@ footer {
   clear: both;
   padding-top: 50px;
   color: #ccc;
+  position: absolute;
+  bottom: 3%;
+  width: 90%;
 }
 
 .social-icon {
